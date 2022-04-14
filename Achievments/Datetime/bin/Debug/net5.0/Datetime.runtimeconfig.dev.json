@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mosaw\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mosaw\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\bin\Debug\net6.0\Les 5 Scopes.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\bin\Debug\net6.0\Les 5 Scopes.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\bin\Debug\net6.0\Les 5 Scopes.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\bin\Debug\net6.0\Les 5 Scopes.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\bin\Debug\net6.0\Les 5 Scopes.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\refint\Les 5 Scopes.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\Les 5 Scopes.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Scopes\obj\Debug\net6.0\ref\Les 5 Scopes.dll

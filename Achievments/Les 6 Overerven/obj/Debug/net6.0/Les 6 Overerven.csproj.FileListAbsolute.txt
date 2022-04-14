@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\bin\Debug\net6.0\Les 6 Overerven.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\bin\Debug\net6.0\Les 6 Overerven.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\bin\Debug\net6.0\Les 6 Overerven.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\bin\Debug\net6.0\Les 6 Overerven.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\bin\Debug\net6.0\Les 6 Overerven.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\refint\Les 6 Overerven.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\Les 6 Overerven.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 6 Overerven\obj\Debug\net6.0\ref\Les 6 Overerven.dll

@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\bin\Debug\net6.0\Les 5 Method Scopes.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\bin\Debug\net6.0\Les 5 Method Scopes.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\bin\Debug\net6.0\Les 5 Method Scopes.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\bin\Debug\net6.0\Les 5 Method Scopes.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\bin\Debug\net6.0\Les 5 Method Scopes.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\refint\Les 5 Method Scopes.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\Les 5 Method Scopes.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 Method Scopes\obj\Debug\net6.0\ref\Les 5 Method Scopes.dll

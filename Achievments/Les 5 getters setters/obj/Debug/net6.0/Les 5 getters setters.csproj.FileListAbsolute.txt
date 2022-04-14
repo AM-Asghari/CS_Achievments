@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\bin\Debug\net6.0\Les 5 getters setters.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\bin\Debug\net6.0\Les 5 getters setters.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\bin\Debug\net6.0\Les 5 getters setters.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\bin\Debug\net6.0\Les 5 getters setters.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\bin\Debug\net6.0\Les 5 getters setters.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\refint\Les 5 getters setters.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\Les 5 getters setters.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 5 getters setters\obj\Debug\net6.0\ref\Les 5 getters setters.dll

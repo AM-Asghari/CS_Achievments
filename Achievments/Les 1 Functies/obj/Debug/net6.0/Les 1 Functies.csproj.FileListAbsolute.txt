@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\bin\Debug\net6.0\Les 1 Functies.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\bin\Debug\net6.0\Les 1 Functies.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\bin\Debug\net6.0\Les 1 Functies.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\bin\Debug\net6.0\Les 1 Functies.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\bin\Debug\net6.0\Les 1 Functies.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\refint\Les 1 Functies.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\Les 1 Functies.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Functies\obj\Debug\net6.0\ref\Les 1 Functies.dll

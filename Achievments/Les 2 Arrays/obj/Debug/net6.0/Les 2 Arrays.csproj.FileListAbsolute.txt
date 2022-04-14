@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\bin\Debug\net6.0\Les 2 Arrays.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\bin\Debug\net6.0\Les 2 Arrays.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\bin\Debug\net6.0\Les 2 Arrays.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\bin\Debug\net6.0\Les 2 Arrays.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\bin\Debug\net6.0\Les 2 Arrays.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\refint\Les 2 Arrays.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\Les 2 Arrays.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 2 Arrays\obj\Debug\net6.0\ref\Les 2 Arrays.dll

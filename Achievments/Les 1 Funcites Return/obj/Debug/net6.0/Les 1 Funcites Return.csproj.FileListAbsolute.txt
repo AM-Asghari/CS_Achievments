@@ -1,0 +1,15 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\bin\Debug\net6.0\Les 1 Funcites Return.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\bin\Debug\net6.0\Les 1 Funcites Return.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\bin\Debug\net6.0\Les 1 Funcites Return.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\bin\Debug\net6.0\Les 1 Funcites Return.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\bin\Debug\net6.0\Les 1 Funcites Return.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\refint\Les 1 Funcites Return.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\Les 1 Funcites Return.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\Achievments\Les 1 Funcites Return\obj\Debug\net6.0\ref\Les 1 Funcites Return.dll

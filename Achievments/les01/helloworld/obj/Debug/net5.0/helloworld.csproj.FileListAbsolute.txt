@@ -1,0 +1,16 @@
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\bin\Debug\net5.0\helloworld.exe
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\bin\Debug\net5.0\helloworld.deps.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\bin\Debug\net5.0\helloworld.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\bin\Debug\net5.0\helloworld.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.csproj.AssemblyReference.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\ref\helloworld.dll
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.pdb
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\helloworld.genruntimeconfig.cache
+C:\Users\Mosaw\Desktop\MA\Bewijzenmap\Periode_1.3\cs\les01\helloworld\obj\Debug\net5.0\refint\helloworld.dll
